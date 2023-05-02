@@ -4,6 +4,7 @@ This is webside for my indyvidual client, who is a football trainer. Webside is 
 ### Go live: https://cti.info.pl/
 
 <strong>In this project I used:</strong>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
