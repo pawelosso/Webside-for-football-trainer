@@ -3,5 +3,6 @@ This is webside for my indyvidual client, who is a football trainer. Webside is 
 <br>
 ### Go live: https://cti.info.pl/
 
-In this project I used:
+<strong>In this project I used:</strong>
+
 
